@@ -12,7 +12,7 @@
 ## Command Line Prompts
 
 - **pwd**: Print Working Directory, Where we are currently
-- **Is**: List the content of the Directory
+- **ls**: List the content of the Directory
 - **cd**: Change Directories; move to another directory
 - **Relative Path**: A file or directory location relative to where we currently are in the file directory
 - **Absolute Path**: A file or directory location in relation to the rootof the file system
