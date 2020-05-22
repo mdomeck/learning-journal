@@ -11,7 +11,7 @@
 
 ## Command Line Prompts
 
-### Linux- everything is a file, no exstentions, case sensitive
+### Linux- everything is a file, no extensions, case sensitive
 - **pwd**: Print Working Directory, Where we are currently
 - **ls**: List the content of the Directory
 - **cd**: Change Directories; move to another directory
