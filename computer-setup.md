@@ -1,14 +1,15 @@
-#Computer Setup
+# Computer Setup
 
 
-##Code Editors / tools
-###How do you choose the right text editor for you? Seems to be a personal decision!
+## Code Editors / tools
+
+### How do you choose the right text editor for you? Seems to be a personal decision!
 - **Code Completion**: start typing and possible completions show up
 - **Syntax Highlighting**: colorizing the text
 - **Themes**: helps eye strain and fatigue 
 - **Extensions**: don't forget those superpowers!
 
-##Command Line Prompts
+## Command Line Prompts
 
 - **pwd**: Print Working Directory, Where we are currently
 - **Is**: List the content of the Directory
