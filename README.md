@@ -1,5 +1,3 @@
-
-
 # learning-journal
 This is my learning journal
 
@@ -8,5 +6,6 @@ This is my learning journal
 - [Markdown](mardown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [Git vs GitHub](git-github-notes.md)
+- [HTML Notes](html-notes.md)
 
 # We **CAN** do this!
