@@ -7,7 +7,7 @@ This is my learning journal
 - [Computer Setup](computer-setup.md)
 - [Git vs GitHub](git-github-notes.md)
 - [HTML Notes](html-notes.md)
-- [CSS Notes](cdd-notes.md)
+- [CSS Notes](css-notes.md)
 - [Javascript Notes](javascript-notes.md)
 
 # We **CAN** do this!
