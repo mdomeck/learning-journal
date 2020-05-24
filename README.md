@@ -8,5 +8,6 @@ This is my learning journal
 - [Git vs GitHub](git-github-notes.md)
 - [HTML Notes](html-notes.md)
 - [CSS Notes](cdd-notes.md)
+- [Javascript Notes](javascript-notes.md)
 
 # We **CAN** do this!
