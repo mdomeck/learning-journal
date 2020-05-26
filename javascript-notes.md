@@ -12,5 +12,19 @@
 - typeof = in the console tells you what it is
 - = is an assignment operation
 - == is comparative equals
-- === is strict equala   
+- === is strict equala 
+
+## How Computers Work
+- What makes a computer a computer
+    * Take input
+    * Store information
+    * Process the info
+    * give an output
+- Data & Binary
+    * Computers work on 1 and 0. 
+    * Electic wires that carry the info
+- Circuits and Logic
+    * modify and combine input signals
+- CPU, memory, input & output
+- Hardware and Software
 
