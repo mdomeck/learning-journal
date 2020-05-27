@@ -10,5 +10,6 @@ This is my learning journal
 - [CSS Notes](css-notes.md)
 - [Javascript Notes](javascript-notes.md)
 - [Function Notes](function-notes.md)
+- [For and While loops](loop-notes.md)
 
 # We **CAN** do this!
