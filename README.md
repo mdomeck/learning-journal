@@ -9,5 +9,6 @@ This is my learning journal
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
 - [Javascript Notes](javascript-notes.md)
+- [Function Notes](function-notes.md)
 
 # We **CAN** do this!
