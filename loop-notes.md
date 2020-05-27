@@ -1,4 +1,4 @@
-## Loops
+# Loops
 
 ## Comparison Operators
     - equal to, strict equal to, greater than, leass than
